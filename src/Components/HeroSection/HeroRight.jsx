@@ -1,6 +1,7 @@
 import React from 'react'
 import { motion } from 'framer-motion'
 import img from '../Assets/hero1.png'
+// import img from '../Assets/start_aktion_header1_people_pfanny_2024-opti.webp'
 export default function HeroRight() {
   return (
     <div className='relative'>
