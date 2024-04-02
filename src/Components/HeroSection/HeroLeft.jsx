@@ -12,6 +12,8 @@ export default function HeroLeft() {
     border: '2px solid white',
     padding: '20px',
     borderRadius: '5px',
+    backgroundColor:'#FCF6EB',
+    
   };
 
   const inputStyle = {
